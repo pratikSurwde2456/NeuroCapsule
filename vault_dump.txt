@@ -1,0 +1,5 @@
+1|photo|BIRTHDAY|uploads\memory_vault\photos\20260312_201819_Android.png
+2|voice|BIRTHDAY|uploads\memory_vault\voice\20260312_201902_Pehla_Nasha_-_Jo_Jeeta_Wohi_Sikandar.mp3
+3|reminder|Brithday|None
+4|voice|happy|uploads\memory_vault\voice\20260312_202729_Brazil_Song_La_La_La_La_Original_Mp3_Download-PagalZilla.mp3
+5|photo|phip'|uploads\memory_vault\photos\20260312_202806_batman-superhero-5k-3840x2160-18659.jpg
